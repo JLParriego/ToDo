@@ -1,6 +1,6 @@
 #Webpack Starter
 
-Este es el proyecto inicial para crear aplicaciones con webpack
+Desarrollo de aplicación con JS para gestión de tareas
 
 ### Notas:
 Recordad reconstruir los módulos de Node
