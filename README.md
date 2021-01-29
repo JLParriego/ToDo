@@ -1,4 +1,4 @@
-#Webpack Starter
+#ToDo JS web application
 
 Desarrollo de aplicación con JS para gestión de tareas
 
